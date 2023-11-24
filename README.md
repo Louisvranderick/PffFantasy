@@ -70,4 +70,4 @@ The `calculate_slope` function is designed to calculate the slope of the perform
 ```python
 players_slope = calculate_slope(dataframes)
 ```
-![drakelondonstats](PFF/Capture d’écran, le 2023-11-24 à 14.13.25.png)
+![drakelondonstats](PFF/screenshot.png)
