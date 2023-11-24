@@ -21,7 +21,7 @@ slope = calculate_regression_slope(weekly_stats)
 print(f"Slope of performance trend: {slope}")
 ```
 
-**[Image Placeholder for `calculate_regression_slope` Function]**
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Louisvranderick/PffFantasy/blob/main/PFF/Figure_1.png))
 
 ## 2. `calculate_expected_points_change(dataframes, position_filter=None, min_expected_points_average=5, rate_of_change_weeks=2)`
 ### Description:
